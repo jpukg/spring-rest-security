@@ -1,7 +1,7 @@
 spring-rest-security
 ====================
 
-This project is an example to how authenticate a RESTfull api without to use sessions, dbsession or coockies. The process is 
+This project is an example to how authenticate a RESTfull api without to use sessions, dbsession or cookies. The process is 
 very similar to the AWS (Amazon Web Services) but the intention is to turn in an Open Source Project to make authentications easy when need to use REST.
 
 GOALS | STATUS:
